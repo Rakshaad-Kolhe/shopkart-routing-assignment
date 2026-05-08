@@ -8,7 +8,7 @@
     "react-scripts": "^0.0.0"
   },
   "scripts": {
-    "start": "start",
+    "start": "react-scripts start",
     "build": "react-scripts build"
   }
 }
